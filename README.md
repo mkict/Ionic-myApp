@@ -1,4 +1,6 @@
 # Ionic-myApp
 Git testing
 
-Hello World! 
+Hello World!
+
+commit #3!
